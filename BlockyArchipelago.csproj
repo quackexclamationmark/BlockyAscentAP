@@ -114,6 +114,10 @@
     <Compile Include="CheckpointsManager.cs" />
     <Compile Include="MessageHub.cs" />
     <Compile Include="APConfig.cs" />
+    <Compile Include="ITrap.cs" />
+    <Compile Include="ArchipelagoTrapsPlugin.cs" />
+    <Compile Include="TrapPatches_HandleInput.cs" />
+    <Compile Include="TrapManager.cs" />
     <Compile Include="SpawnItemToggle.cs" />
     <Compile Include="PrintCoords.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
